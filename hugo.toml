@@ -1,0 +1,21 @@
+baseURL = 'https://tindalos-cx.github.io'
+locale = 'zh-CN'
+title = 'My New Hugo Project'
+theme = 'PaperMod'
+
+[params]
+  author = '你的名字'
+  defaultTheme = 'light'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+    name = '首页'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    name = '归档'
+    url = '/archives'
+    weight = 20
