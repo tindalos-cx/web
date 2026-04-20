@@ -1,4 +1,4 @@
-baseURL = 'https://tindalos-cx.github.io'
+baseURL = 'https://tindalos-cx.github.io/web'
 locale = 'zh-CN'
 title = 'My New Hugo Project'
 theme = 'PaperMod'
